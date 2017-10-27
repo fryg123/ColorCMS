@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/Colorful.AspNetCore/v15/Server/sqlite3
+/.vs/Colorful.AspNetCore/v15
+/Colorful.Cache/bin/Debug/netcoreapp2.0
+/Colorful.Cache/obj
+/Colorful.Json/bin/Debug/netcoreapp2.0
+/Colorful.Json/obj

@@ -14,7 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EF9DDBEA-20D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{D906E545-E807-41D7-A565-D273889FB0D3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colorful.Web.CMS", "Colorful.Web.CMS\Colorful.Web.CMS.csproj", "{DEB56900-4A88-4D70-9A28-B25CD5ABF54B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colorful.Web.CMS", "Colorful.Web.Common\Colorful.Web.CMS.csproj", "{DEB56900-4A88-4D70-9A28-B25CD5ABF54B}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colorful.Mongodb", "Colorful.Mongodb\Colorful.Mongodb.csproj", "{67539047-C905-456A-B5B3-12EAD9F4642D}"
 EndProject

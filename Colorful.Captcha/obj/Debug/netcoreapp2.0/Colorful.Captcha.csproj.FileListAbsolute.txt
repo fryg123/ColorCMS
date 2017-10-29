@@ -1,0 +1,9 @@
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Captcha\bin\Debug\netcoreapp2.0\Colorful.Captcha.deps.json
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Captcha\bin\Debug\netcoreapp2.0\Colorful.Captcha.dll
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Captcha\obj\Debug\netcoreapp2.0\Colorful.Captcha.csproj.CoreCompileInputs.cache
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Captcha\obj\Debug\netcoreapp2.0\Colorful.Captcha.AssemblyInfoInputs.cache
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Captcha\obj\Debug\netcoreapp2.0\Colorful.Captcha.AssemblyInfo.cs
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Captcha\bin\Debug\netcoreapp2.0\Colorful.Captcha.pdb
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Captcha\obj\Debug\netcoreapp2.0\Colorful.Captcha.csprojResolveAssemblyReference.cache
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Captcha\obj\Debug\netcoreapp2.0\Colorful.Captcha.dll
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Captcha\obj\Debug\netcoreapp2.0\Colorful.Captcha.pdb

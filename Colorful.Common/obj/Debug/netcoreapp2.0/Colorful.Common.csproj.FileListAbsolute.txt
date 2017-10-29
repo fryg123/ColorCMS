@@ -1,0 +1,9 @@
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Common\bin\Debug\netcoreapp2.0\Colorful.Common.deps.json
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Common\bin\Debug\netcoreapp2.0\Colorful.Common.dll
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Common\bin\Debug\netcoreapp2.0\Colorful.Common.pdb
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Common\obj\Debug\netcoreapp2.0\Colorful.Common.csproj.CoreCompileInputs.cache
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Common\obj\Debug\netcoreapp2.0\Colorful.Common.AssemblyInfoInputs.cache
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Common\obj\Debug\netcoreapp2.0\Colorful.Common.AssemblyInfo.cs
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Common\obj\Debug\netcoreapp2.0\Colorful.Common.dll
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Common\obj\Debug\netcoreapp2.0\Colorful.Common.pdb
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Common\obj\Debug\netcoreapp2.0\Colorful.Common.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Image\bin\Debug\netcoreapp2.0\Colorful.Image.deps.json
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Image\bin\Debug\netcoreapp2.0\Colorful.Image.dll
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Image\obj\Debug\netcoreapp2.0\Colorful.Image.csproj.CoreCompileInputs.cache
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Image\obj\Debug\netcoreapp2.0\Colorful.Image.AssemblyInfoInputs.cache
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Image\obj\Debug\netcoreapp2.0\Colorful.Image.AssemblyInfo.cs
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Image\obj\Debug\netcoreapp2.0\Colorful.Image.csprojResolveAssemblyReference.cache
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Image\bin\Debug\netcoreapp2.0\Colorful.Image.pdb
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Image\obj\Debug\netcoreapp2.0\Colorful.Image.dll
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Image\obj\Debug\netcoreapp2.0\Colorful.Image.pdb

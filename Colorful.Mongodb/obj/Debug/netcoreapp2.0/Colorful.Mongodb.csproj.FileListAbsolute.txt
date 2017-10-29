@@ -1,0 +1,11 @@
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Mongodb\bin\Debug\netcoreapp2.0\Colorful.Mongodb.deps.json
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Mongodb\bin\Debug\netcoreapp2.0\Colorful.Mongodb.dll
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Mongodb\obj\Debug\netcoreapp2.0\Colorful.Mongodb.csproj.CoreCompileInputs.cache
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Mongodb\obj\Debug\netcoreapp2.0\Colorful.Mongodb.AssemblyInfoInputs.cache
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Mongodb\obj\Debug\netcoreapp2.0\Colorful.Mongodb.AssemblyInfo.cs
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Mongodb\obj\Debug\netcoreapp2.0\Colorful.Mongodb.csprojResolveAssemblyReference.cache
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Mongodb\bin\Debug\netcoreapp2.0\Colorful.Common.dll
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Mongodb\bin\Debug\netcoreapp2.0\Colorful.Common.pdb
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Mongodb\bin\Debug\netcoreapp2.0\Colorful.Mongodb.pdb
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Mongodb\obj\Debug\netcoreapp2.0\Colorful.Mongodb.dll
+E:\MyProjects\Colorful\Dotnet\Colorful.AspNetCore\Colorful.Mongodb\obj\Debug\netcoreapp2.0\Colorful.Mongodb.pdb

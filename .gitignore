@@ -8,3 +8,10 @@
 /Colorful.Cache/obj
 /Colorful.Json/bin/Debug/netcoreapp2.0
 /Colorful.Json/obj
+/Colorful.Cache.Web/bin/Debug/netcoreapp2.0
+/Colorful.Cache.Web/obj
+/Colorful.CMS/obj
+/Colorful.Compression/bin/Debug/netcoreapp2.0
+/Colorful.Compression/obj
+/Colorful.Web.CMS/bin/Debug/netcoreapp2.0
+/Colorful.Web.CMS/obj/Debug/netcoreapp2.0

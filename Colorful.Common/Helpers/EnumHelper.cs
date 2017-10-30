@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using Colorful.Models;
 
-namespace Colorful.AspNetCore
+namespace Colorful
 {
     /// <summary>
     /// 枚举帮助类

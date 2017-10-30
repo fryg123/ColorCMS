@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Colorful.AspNetCore
+namespace Colorful
 {
     /// <summary>
     /// 图片格式

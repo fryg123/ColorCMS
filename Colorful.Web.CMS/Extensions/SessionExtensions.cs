@@ -3,7 +3,7 @@ using System.Linq;
 using Microsoft.AspNetCore.Http;
 using Newtonsoft.Json;
 
-namespace Colorful.AspNetCore
+namespace Colorful.Web.CMS
 {
     /// <summary>
     /// 自定义Session类

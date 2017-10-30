@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
-    <RootNamespace>Colorful.AspNetCore</RootNamespace>
+    <RootNamespace>Colorful.Cache.Web</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

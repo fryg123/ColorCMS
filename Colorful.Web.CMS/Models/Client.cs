@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace Colorful.Models
+namespace Colorful.Web.CMS.Models
 {
     public class Client
     {

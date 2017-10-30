@@ -1,8 +1,7 @@
-﻿using ALSoft.Captcha.Core;
-using System;
+﻿using System;
 using System.IO;
 
-namespace Colorful.AspNetCore
+namespace Colorful.Captcha
 {
     /// <summary>
     /// 验证码帮助类
@@ -17,7 +16,7 @@ namespace Colorful.AspNetCore
         /// <returns></returns>
         public static byte[] GetCaptcha(int width, int height)
         {
-            var cc = new CaptchaControl();
+            var cc = new ALSoft.Captcha.Core.CaptchaControl();
             cc.IsForegroundDynamic = true;
             if (height > 0)
                 cc.Height = 38;
@@ -25,7 +24,7 @@ namespace Colorful.AspNetCore
                 cc.Width = width;
             using (var mStream = new MemoryStream())
             {
-                new Captcha().GenerateCaptchaImage(mStream);
+                new ALSoft.Captcha.Core.Captcha().GenerateCaptchaImage(mStream);
                 var buffer = new byte[mStream.Length];
                 mStream.Read(buffer, 0, buffer.Length);
                 return buffer;

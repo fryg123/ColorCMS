@@ -7,8 +7,9 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
+using WebMarkupMin.Core;
 
-namespace Colorful.AspNetCore
+namespace Colorful.Cache.Web
 {
     /// <summary>
     /// 缓存Web服务扩展

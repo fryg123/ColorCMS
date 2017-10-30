@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Builder;
+﻿using Colorful.Web.CMS;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
 using System;
@@ -62,7 +63,7 @@ namespace System
         {
             if (!url.StartsWith("/"))
                 throw new InvalidOperationException("无效的路径！");
-            var rootPath = Colorful.WebConfig.RootPath;
+            var rootPath = WebConfig.RootPath;
             var path = rootPath + url.Replace("/", "\\");
             return path;
         }

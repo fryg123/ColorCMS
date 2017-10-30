@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colorful.Json", "Colorful.Json\Colorful.Json.csproj", "{2D78872C-C8CE-418F-BF4C-4FFB8FCB1ACB}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colorful.Web.Cache", "Colorful.Web.Cache\Colorful.Web.Cache.csproj", "{0E4FB312-AB4C-4FE2-836D-BA466280636E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colorful.Cache.Web", "Colorful.Web.Cache\Colorful.Cache.Web.csproj", "{0E4FB312-AB4C-4FE2-836D-BA466280636E}"
 	ProjectSection(ProjectDependencies) = postProject
 		{2D78872C-C8CE-418F-BF4C-4FFB8FCB1ACB} = {2D78872C-C8CE-418F-BF4C-4FFB8FCB1ACB}
 	EndProjectSection
@@ -14,17 +14,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{EF9DDBEA-20D
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "samples", "samples", "{D906E545-E807-41D7-A565-D273889FB0D3}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colorful.Web.CMS", "Colorful.Web.Common\Colorful.Web.CMS.csproj", "{DEB56900-4A88-4D70-9A28-B25CD5ABF54B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colorful.Web.CMS", "Colorful.Web.CMS\Colorful.Web.CMS.csproj", "{DEB56900-4A88-4D70-9A28-B25CD5ABF54B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colorful.Mongodb", "Colorful.Mongodb\Colorful.Mongodb.csproj", "{67539047-C905-456A-B5B3-12EAD9F4642D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colorful.Mongodb", "Colorful.Mongodb\Colorful.Mongodb.csproj", "{67539047-C905-456A-B5B3-12EAD9F4642D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colorful.Cache", "Colorful.Cache\Colorful.Cache.csproj", "{DD1F1F47-AE86-41C2-830A-2CAD7D0E230E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colorful.Cache", "Colorful.Cache\Colorful.Cache.csproj", "{DD1F1F47-AE86-41C2-830A-2CAD7D0E230E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colorful.Common", "Colorful.Common\Colorful.Common.csproj", "{BE96858F-F4B4-4E1A-B223-4899C7B7DA37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colorful.Common", "Colorful.Common\Colorful.Common.csproj", "{BE96858F-F4B4-4E1A-B223-4899C7B7DA37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colorful.Image", "Colorful.Image\Colorful.Image.csproj", "{E72F4A8E-59C7-417A-B690-391F592CF813}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colorful.Image", "Colorful.Image\Colorful.Image.csproj", "{E72F4A8E-59C7-417A-B690-391F592CF813}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colorful.Captcha", "Colorful.Captcha\Colorful.Captcha.csproj", "{9B5D6C39-F9C3-4A11-92FC-6F8B6240FC80}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Colorful.Captcha", "Colorful.Captcha\Colorful.Captcha.csproj", "{9B5D6C39-F9C3-4A11-92FC-6F8B6240FC80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colorful.CMS", "Colorful.CMS\Colorful.CMS.csproj", "{7D709985-A156-46C1-97CD-8FE87C4B94FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colorful.Compression", "Colorful.Compression\Colorful.Compression.csproj", "{8FDAC833-E0A7-4FB5-B6E6-F1C310D27483}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -64,6 +68,14 @@ Global
 		{9B5D6C39-F9C3-4A11-92FC-6F8B6240FC80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B5D6C39-F9C3-4A11-92FC-6F8B6240FC80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B5D6C39-F9C3-4A11-92FC-6F8B6240FC80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D709985-A156-46C1-97CD-8FE87C4B94FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D709985-A156-46C1-97CD-8FE87C4B94FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D709985-A156-46C1-97CD-8FE87C4B94FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D709985-A156-46C1-97CD-8FE87C4B94FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FDAC833-E0A7-4FB5-B6E6-F1C310D27483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FDAC833-E0A7-4FB5-B6E6-F1C310D27483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FDAC833-E0A7-4FB5-B6E6-F1C310D27483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FDAC833-E0A7-4FB5-B6E6-F1C310D27483}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -77,6 +89,8 @@ Global
 		{BE96858F-F4B4-4E1A-B223-4899C7B7DA37} = {EF9DDBEA-20D7-4D38-A8CA-8BADABFF0013}
 		{E72F4A8E-59C7-417A-B690-391F592CF813} = {EF9DDBEA-20D7-4D38-A8CA-8BADABFF0013}
 		{9B5D6C39-F9C3-4A11-92FC-6F8B6240FC80} = {EF9DDBEA-20D7-4D38-A8CA-8BADABFF0013}
+		{7D709985-A156-46C1-97CD-8FE87C4B94FD} = {D906E545-E807-41D7-A565-D273889FB0D3}
+		{8FDAC833-E0A7-4FB5-B6E6-F1C310D27483} = {EF9DDBEA-20D7-4D38-A8CA-8BADABFF0013}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B87E766F-1E79-4E7A-A0FC-D3F35FE26D24}

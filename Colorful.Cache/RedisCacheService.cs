@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Colorful.AspNetCore
+namespace Colorful.Cache
 {
     #region RedisCache
     /// <summary>

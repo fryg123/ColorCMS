@@ -8,7 +8,7 @@ using System.Text.RegularExpressions;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Colorful.AspNetCore
+namespace Colorful.Web.CMS
 {
     #region HttpClientHandler
     class MyHttpClientHandler : HttpClientHandler

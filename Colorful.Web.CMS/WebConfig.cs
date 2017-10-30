@@ -1,19 +1,18 @@
 ﻿using Colorful.Models;
-using Microsoft.Extensions.DependencyInjection;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 using MongoDB.Driver;
-using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
-namespace Colorful.AspNetCore
+namespace Colorful.Web.CMS
 {
     /// <summary>
     /// 全局配置类
     /// </summary>
     public static class WebConfig
     {
+        //项目Id，用于前辍标识，如：Redis前辍
+        public static string ProjectId = null;
         /// <summary>
         /// 后台路由前辍
         /// </summary>
@@ -26,10 +25,6 @@ namespace Colorful.AspNetCore
         /// 网站根目录
         /// </summary>
         public static string RootPath = "";
-        /// <summary>
-        /// 当前是否为调试环境
-        /// </summary>
-        public static bool IsDebug;
         //是否为开发环境
         public static bool IsDevelopment;
         /// <summary>
@@ -39,7 +34,7 @@ namespace Colorful.AspNetCore
         /// <summary>
         /// 缓存服务
         /// </summary>
-        public static ICacheService CacheService;
+        public static Cache.ICacheService CacheService;
         /// <summary>
         /// 系统设置
         /// </summary>
@@ -61,9 +56,9 @@ namespace Colorful.AspNetCore
         /// </summary>
         public static string ConnectionString;
         /// <summary>
-        /// 服务接口
+        /// IConfiguration
         /// </summary>
-        public static ServiceProvider ServiceProider;
+        public static IConfiguration Configuration;
         /// <summary>
         /// RazorRenderer服务
         /// </summary>

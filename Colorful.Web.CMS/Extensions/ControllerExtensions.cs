@@ -10,7 +10,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Colorful.AspNetCore
+namespace Colorful.Web.CMS
 {
     public static class ControllerExtensions
     {

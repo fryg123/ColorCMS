@@ -9,7 +9,7 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.AspNetCore.Mvc.ViewFeatures;
 using Microsoft.AspNetCore.Routing;
 
-namespace Colorful.AspNetCore
+namespace Colorful.Web.CMS
 {
     public class RazorViewService
     {
